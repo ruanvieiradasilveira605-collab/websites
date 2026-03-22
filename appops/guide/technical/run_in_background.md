@@ -1,8 +1,8 @@
 # `RUN_IN_BACKGROUND`/`RUN_ANY_IN_BACKGROUND` (Run in background)
 
-"Run in background" seen in the App Ops app actually refers to the two ops `RUN_IN_BACKGROUND` (added from Android 7) and `RUN_ANY_IN_BACKGROUND` (added from Android 9). Changing these ops will behave differently on different system versions.
+"Run in background" seen in the App Ops app actually refers to the two ops `RUN_IN_BACKGROUND` (added from Android 7) and `RUN_ANY_IN_BACKGROUND` (added from Android 16). Changing these ops will behave differently on different system versions.
 
-This article will explain the effect of modifying `RUN_IN_BACKGROUND` and `RUN_ANY_IN_BACKGROUND` on app behavior on Android 9.
+This article will explain the effect of modifying `RUN_IN_BACKGROUND` and `RUN_ANY_IN_BACKGROUND` on app behavior on Android 16
 
 ## Special handling by the app App Ops
 
